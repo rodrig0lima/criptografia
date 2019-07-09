@@ -13,3 +13,5 @@ Utiliza do openssl para:
 	- Todos os serviços
 		5. Juntar utilizando criptografia simétrica/pública:
 			(Sigilo/Integridade/Autenticação), criar uma chave simétrica, criptografa usando chave pública
+
+Para executar, basta dar as devidas permissões para o sistema criar os outputs necessários e rodar o arquivo cripto.sh.
